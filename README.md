@@ -55,7 +55,7 @@ Each file contains:
 
 ---
 
-## 🛠 How to Run
+##  How to Run
 
 Clone the repository:
 

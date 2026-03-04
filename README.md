@@ -1,4 +1,4 @@
-# 💻 Coding Practice
+#  Coding Practice
 
 This repository contains my daily coding practice and problem-solving solutions to improve my programming and Data Structures & Algorithms (DSA) skills.
 

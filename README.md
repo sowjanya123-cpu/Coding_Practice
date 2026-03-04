@@ -46,7 +46,7 @@ Each file contains:
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 - Practice coding daily  
 - Improve problem-solving skills  

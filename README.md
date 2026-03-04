@@ -4,7 +4,7 @@ This repository contains my daily coding practice and problem-solving solutions 
 
 ---
 
-## 📖 About
+##  About
 
 This repo includes:
 

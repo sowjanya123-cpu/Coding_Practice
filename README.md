@@ -42,7 +42,7 @@ Each file contains:
 
 ##  Language Used
 
-- Python 🐍
+- Python 
 
 ---
 

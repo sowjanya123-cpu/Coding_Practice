@@ -17,7 +17,7 @@ This repo includes:
 
 ---
 
-## 🧠 Topics Covered
+##  Topics Covered
 
 - Arrays & Strings  
 - Two Pointers  

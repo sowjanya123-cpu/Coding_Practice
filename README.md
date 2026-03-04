@@ -40,7 +40,7 @@ Each file contains:
 
 ---
 
-## 🚀 Language Used
+##  Language Used
 
 - Python 🐍
 
